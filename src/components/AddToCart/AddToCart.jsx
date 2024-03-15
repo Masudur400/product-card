@@ -7,7 +7,7 @@ const AddToCart = ({ item, idx, handleRemove }) => {
         <div className='shadow-lg mt-3 p-3 rounded-lg flex justify-around mb-3'>
             <p className='font-bold'>{idx + 1}.</p>
             <h2 className='font-bold'>{product_title}</h2>
-            <h2 className='font-bold'>{price}</h2>
+            <h2 className='font-bold'>${price}</h2>
             <button onClick={()=>handleRemove(item.id)} className='text-red-400'>Remove</button>
 
         </div>
