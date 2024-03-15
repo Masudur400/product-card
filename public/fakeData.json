@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "product_title": "Blue Men's Polo Shirt",
+      "product_img": "https://i.ibb.co/5G1DTqY/product-1.jpg",
+      "price": 29.99,
+      "description": "This comfortable polo shirt is made from high-quality cotton and features a classic blue color."
+    },
+    {
+      "id": 2,
+      "product_title": "Wireless Bluetooth Earbuds",
+      "product_img": "https://i.ibb.co/MgP4tJ6/product-2.jpg",
+      "price": 49.99,
+      "description": "This comfortable polo shirt is made from high-quality cotton and features a classic blue color."
+    },
+    {
+      "id": 3,
+      "product_title": "Stainless Steel Kitchen Knife Set",
+      "product_img": "https://i.ibb.co/RvZhQWB/product-6.jpg",
+      "price": 79.99,
+      "description": "This comfortable polo shirt is made from high-quality cotton and features a classic blue color."
+    },
+    {
+      "id": 4,
+      "product_title": "Women's Running Shoes",
+      "product_img": "https://i.ibb.co/Fhyfcpn/product-4.jpg",
+      "price": 69.99,
+      "description": "This comfortable polo shirt is made from high-quality cotton and features a classic blue color."
+    },
+    {
+      "id": 5,
+      "product_title": "Smart LED TV - 55 inches",
+      "product_img": "https://i.ibb.co/XpyVYCC/product-5.jpg",
+      "price": 799.99,
+      "description": "This comfortable polo shirt is made from high-quality cotton and features a classic blue color."
+    }
+  ]
+  
